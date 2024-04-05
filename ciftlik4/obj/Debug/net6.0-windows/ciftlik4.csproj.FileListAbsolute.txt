@@ -1,0 +1,17 @@
+C:\Users\azizs\OneDrive\Masaüstü\ciftlik4\ciftlik4\bin\Debug\net6.0-windows\ciftlik4.exe
+C:\Users\azizs\OneDrive\Masaüstü\ciftlik4\ciftlik4\bin\Debug\net6.0-windows\ciftlik4.deps.json
+C:\Users\azizs\OneDrive\Masaüstü\ciftlik4\ciftlik4\bin\Debug\net6.0-windows\ciftlik4.runtimeconfig.json
+C:\Users\azizs\OneDrive\Masaüstü\ciftlik4\ciftlik4\bin\Debug\net6.0-windows\ciftlik4.dll
+C:\Users\azizs\OneDrive\Masaüstü\ciftlik4\ciftlik4\bin\Debug\net6.0-windows\ciftlik4.pdb
+C:\Users\azizs\OneDrive\Masaüstü\ciftlik4\ciftlik4\obj\Debug\net6.0-windows\ciftlik4.Form1.resources
+C:\Users\azizs\OneDrive\Masaüstü\ciftlik4\ciftlik4\obj\Debug\net6.0-windows\ciftlik4.Properties.Resources.resources
+C:\Users\azizs\OneDrive\Masaüstü\ciftlik4\ciftlik4\obj\Debug\net6.0-windows\ciftlik4.csproj.GenerateResource.cache
+C:\Users\azizs\OneDrive\Masaüstü\ciftlik4\ciftlik4\obj\Debug\net6.0-windows\ciftlik4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\azizs\OneDrive\Masaüstü\ciftlik4\ciftlik4\obj\Debug\net6.0-windows\ciftlik4.AssemblyInfoInputs.cache
+C:\Users\azizs\OneDrive\Masaüstü\ciftlik4\ciftlik4\obj\Debug\net6.0-windows\ciftlik4.AssemblyInfo.cs
+C:\Users\azizs\OneDrive\Masaüstü\ciftlik4\ciftlik4\obj\Debug\net6.0-windows\ciftlik4.csproj.CoreCompileInputs.cache
+C:\Users\azizs\OneDrive\Masaüstü\ciftlik4\ciftlik4\obj\Debug\net6.0-windows\ciftlik4.dll
+C:\Users\azizs\OneDrive\Masaüstü\ciftlik4\ciftlik4\obj\Debug\net6.0-windows\refint\ciftlik4.dll
+C:\Users\azizs\OneDrive\Masaüstü\ciftlik4\ciftlik4\obj\Debug\net6.0-windows\ciftlik4.pdb
+C:\Users\azizs\OneDrive\Masaüstü\ciftlik4\ciftlik4\obj\Debug\net6.0-windows\ciftlik4.genruntimeconfig.cache
+C:\Users\azizs\OneDrive\Masaüstü\ciftlik4\ciftlik4\obj\Debug\net6.0-windows\ref\ciftlik4.dll
